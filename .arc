@@ -7,6 +7,7 @@ shiny-r51
 get /todos
 post /todos
 post /todos/delete
+get /title/:name
 
 @tables
 data
